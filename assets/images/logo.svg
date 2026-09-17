@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<circle cx="60" cy="60" r="58" fill="#0E2A47" stroke="#D9A33B" stroke-width="3"/>
+<path d="M60 24 L94 42 V80 L60 98 L26 80 V42 Z" fill="none" stroke="#F0C866" stroke-width="2" opacity="0.35"/>
+<path d="M30 50 L60 34 L90 50 L60 66 Z" fill="#D9A33B"/>
+<path d="M30 50 V70 C30 70 42 78 60 78 C78 78 90 70 90 70 V50" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<line x1="60" y1="66" x2="60" y2="86" stroke="#F0C866" stroke-width="2"/>
+<circle cx="60" cy="88" r="3" fill="#F0C866"/>
+<text x="60" y="106" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#FFFFFF" letter-spacing="1">SRIVANI</text>
+</svg>
